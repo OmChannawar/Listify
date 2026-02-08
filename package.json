@@ -58,6 +58,6 @@
             "build": "vite build"
       },
       "engines": {
-            "node": ">=20"
+            "node": "20.x"
       }
 }
